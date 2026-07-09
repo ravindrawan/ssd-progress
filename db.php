@@ -1,7 +1,7 @@
 <?php
 $host = 'ssd-extr-db';
-$user = 'root';
-$pass = '';
+$user = 'user7W1';                  // 'root' වෙනුවට අලුත් යූසර්
+$pass = 'WkExocx6I5C8nWJv';          // පාස්වර්ඩ් එක ඇතුළත් කරන්න
 $db = 'social_services_monthly';
 
 $conn = @new mysqli($host, $user, $pass, $db);
