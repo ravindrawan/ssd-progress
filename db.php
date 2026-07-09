@@ -1,7 +1,7 @@
 <?php
-$host = 'localhost';
+$host = 'ssd-extr-db';
 $user = 'root';
-$pass = 'Ravi@2025';
+$pass = '';
 $db = 'social_services_monthly';
 
 $conn = @new mysqli($host, $user, $pass, $db);
